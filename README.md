@@ -1,5 +1,8 @@
 # commit-rule
 
+```
+[ Type ] :: 내용
+
 ## Type
 Type | 키워드	사용 시점    
 feat | 새로운 기능 추가    
