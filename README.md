@@ -6,6 +6,7 @@
 
 ## Type
 Type | 키워드	사용 시점    
+Create | 파일 생성    
 feat | 새로운 기능 추가    
 fix | 버그 수정    
 docs | 문서 수정    
